@@ -1,0 +1,31 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  padding: 10px 100px 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  color: white;
+}
+.nav {
+  text-decoration: none;
+}
+.home{
+  display: flex;
+  justify-content: center;
+}
+.home div{
+  font-size: 100px;
+}
+.home p{
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+}
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
